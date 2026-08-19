@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 I’m currently working on
-🏥 A Hospital Management System using **Spring Boot, JPA & PostgreSQL**
+🏥 MULTI VENDOR ECOMMERCE backend using **Spring Boot, JPA , Spring Security & PostgreSQL**
 
 👯 I’m looking to collaborate on
 🤝 Java, Spring Boot, Backend & Machine Learning projects
