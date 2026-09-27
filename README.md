@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🔭 I’m currently working on
-🏥 MULTI VENDOR ECOMMERCE backend using **Spring Boot, JPA , Spring Security & PostgreSQL**
+🏥 Distributed Workflow Engine using **Spring Boot, JPA , Spring Security & PostgreSQL**
 
 👯 I’m looking to collaborate on
 🤝 Java, Spring Boot, Backend & Machine Learning projects
